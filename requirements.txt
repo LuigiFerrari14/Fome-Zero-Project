@@ -5,4 +5,4 @@ numpy==1.26.4
 folium==0.18.0
 matplotlib==3.9.2
 matplotlib-inline==0.1.6
-Pillow==9.2.0
+Pillow==24.3.1
