@@ -20,7 +20,7 @@
 # Produto Final do Projeto
   - O produto final é uma aplicação que oferece aos gestores e donos de restaurantes uma visão clara do mercado e das preferências dos clientes. A interface permite filtrar os dados por pais, tipo de entrega, faixa de preço, reservas e avaliação, ajudando a entender a concorrência e a ajustar suas estratégias de acordo com o comportamento do público local.
     
- - O painel pode ser acessado por meio desse Link: https://relatoriofomezero-luigi.streamlit.app/~/+/
+ - O painel pode ser acessado por meio desse Link: https://relatoriofomezero-luigi.streamlit.app/
 
 # Conclusão
   - O projeto Fome Zero oferece uma plataforma útil para análises de mercado no setor de alimentação, ajudando empresas a tomarem decisões estratégicas informadas. Com uma visão organizada das principais tendências e preferências, donos de restaurantes podem posicionar melhor seus negócios e se destacar em um mercado competitivo.
